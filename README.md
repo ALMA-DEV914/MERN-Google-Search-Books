@@ -179,5 +179,7 @@ Remove a Book from User Collection:
 ```
 
 # Snaphots
-
-
+When you search a title of a book, you will be prompt at least 10 listed books.
+<img width="1792" alt="Screen Shot 2022-02-09 at 1 31 01 PM" src="https://user-images.githubusercontent.com/65073138/153293727-3967ef24-4819-4635-91ca-c51d55fc5afc.png">
+You can save and view the books, also have the option to delete them from your collections.
+<img width="1792" alt="Screen Shot 2022-02-09 at 1 31 34 PM" src="https://user-images.githubusercontent.com/65073138/153293737-255b275f-8ccc-46b8-a444-58d38bc15878.png">

@@ -2,7 +2,7 @@
 
 A Fullstack MERN search engine that can be used to find potential books to read. Users can create an account, search for books and save them to a personal list for future reference.
 
-[The deployed application](https://shielded-sea-86119.herokuapp.com/)
+[The deployed application](https://shielded-grge-32558.herokuapp.com/)
 This project uses the following technologies/libraries.
 
 -   [GraphQL](https://graphql.org/) as an API Querying Language

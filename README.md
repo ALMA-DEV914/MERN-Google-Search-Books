@@ -88,7 +88,7 @@ Login:
 
 ```
   mutation {
-    login(email: "david@gmail.com", password: "12345") {
+    login(email: "almita@gmail.com", password: "12345") {
       token
       user {
         _id

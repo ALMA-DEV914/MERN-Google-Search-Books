@@ -2,7 +2,7 @@
 
 A Fullstack MERN search engine that can be used to find potential books to read. Users can create an account, search for books and save them to a personal list for future reference.
 
-[The deployed application](https://protected-garden-71460.herokuapp.com/)
+[The deployed application](https://morning-beyond-10028.herokuapp.com/)
  
 This project uses the following technologies/libraries.
 
